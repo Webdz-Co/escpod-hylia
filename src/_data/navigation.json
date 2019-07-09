@@ -6,14 +6,14 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andybelldesign/hylia",
+      "text": "Members",
+      "url": "https://lmgtfy.com?q='the best membership site ever'",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/andybelldesign",
-      "external": true
+      "text": "Resources",
+      "url": "/resources",
+      "external": false
     }
   ]
 }
