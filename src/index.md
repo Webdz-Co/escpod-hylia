@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Serve Others, Be Yourself, Have Fun
+title: Serve Others + Be Yourself + Have Fun
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
