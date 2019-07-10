@@ -11,6 +11,11 @@
       "external": false
     },
     {
+      "text": "Now",
+      "url": "/now",
+      "external": false
+    },
+    {
       "text": "Members",
       "url": "https://lmgtfy.com?q=the best membership site ever",
       "external": true
