@@ -7,12 +7,12 @@
     },
     {
       "text": "About",
-      "url": "/about",
+      "url": "/about/",
       "external": false
     },
     {
       "text": "Now",
-      "url": "/now",
+      "url": "/now/",
       "external": false
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "text": "Resources",
-      "url": "/resources",
+      "url": "/resources/",
       "external": false
     }
   ]
