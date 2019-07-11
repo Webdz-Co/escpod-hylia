@@ -3,27 +3,27 @@
     {
       "text": "Home",
       "url": "/",
-      "external": false
+      "rel": null
     },
     {
       "text": "About",
       "url": "/about/",
-      "external": false
+      "rel": null
     },
     {
       "text": "Now",
       "url": "/now/",
-      "external": false
+      "rel": null
     },
     {
       "text": "Members",
       "url": "https://lmgtfy.com?q=the best membership site ever",
-      "external": true
+      "rel": "external"
     },
     {
       "text": "Resources",
       "url": "/resources/",
-      "external": false
+      "rel": null
     }
   ]
 }
